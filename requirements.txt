@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+sqlalchemy
+pymysql
+mysql-connector-python
+requests
+matplotlib
+seaborn

@@ -1,0 +1,27 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Local datasets
+*.csv
+*.xlsx
+*.parquet
+*.sql
+
+# Temporary files
+*.log
+.DS_Store

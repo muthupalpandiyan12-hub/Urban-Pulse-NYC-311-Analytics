@@ -1,0 +1,11 @@
+{
+    "project": "URBAN PULSE",
+    "source": "https://data.cityofnewyork.us/resource/erm2-nwe9.json",
+    "extraction_utc": "2026-11-16T06:59:51",
+    "target_records": 100000,
+    "actual_records": 100000,
+    "total_columns": 44,
+    "unique_request_ids": 100000,
+    "sampling_method": "Latest records by created_date",
+    "output_file": "C:\\Users\\muthu\\OneDrive\\Desktop\\URBAN_PULSE\\data\\raw_data.csv"
+}
